@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Complete project proposal",
+    "deadline": "2024-04-15 17:00",
+    "description": "Finalize and submit project proposal for client review.",
+    "priority": "High"
+  },
+  {
+    "title": "Call client",
+    "deadline": "2024-04-14 12:00",
+    "description": "Discuss project requirements and timelines with the client.",
+    "priority": "High"
+  },
+  {
+    "title": "Send follow-up email",
+    "deadline": "2024-04-14 15:00",
+    "description": "Follow up on yesterday's meeting with the team and summarize action points.",
+    "priority": "Medium"
+  },
+  {
+    "title": "Review budget spreadsheet",
+    "deadline": "2024-04-14 16:30",
+    "description": "Review and update budget spreadsheet with latest expenses.",
+    "priority": "Low"
+  },
+  {
+    "title": "Prepare presentation slides",
+    "deadline": "2024-04-16 09:00",
+    "description": "Create slides for upcoming client presentation on project progress.",
+    "priority": "High"
+  },
+  {
+    "title": "Attend team meeting",
+    "deadline": "2024-04-15 10:00",
+    "description": "Attend weekly team meeting to discuss project updates and assign tasks.",
+    "priority": "Medium"
+  },
+  {
+    "title": "Research market trends",
+    "deadline": "2024-04-17 14:00",
+    "description": "Conduct research on current market trends to inform project strategy.",
+    "priority": "Medium"
+  },
+  {
+    "title": "Call supplier",
+    "deadline": "2024-04-14 11:30",
+    "description": "Inquire about delivery status of materials for upcoming project phase.",
+    "priority": "Low"
+  },
+  {
+    "title": "Update project timeline",
+    "deadline": "2024-04-15 16:00",
+    "description": "Revise project timeline based on recent developments and client feedback.",
+    "priority": "High"
+  },
+  {
+    "title": "Submit expense report",
+    "deadline": "2024-04-18 12:00",
+    "description": "Compile and submit expense report for approval.",
+    "priority": "Low"
+  }
+]
